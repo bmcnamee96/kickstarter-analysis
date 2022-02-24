@@ -1,2 +1,5 @@
-# kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends. Week 1 bootcamp
+# An Analysis of Kickstarter Campaigns
+Performing analysis on Kickstarter data to uncover trends.
+Module 1. Week 1
+
+## 

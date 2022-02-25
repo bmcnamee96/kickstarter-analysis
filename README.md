@@ -16,13 +16,13 @@ Analysis was done using Microsoft Excel. No challenges were faced in the analysi
 
 The outcome of theater productions was mainly succesful more than a failure in pretty much every occurance.  The only time where success and failure are almost the same is in December. The main takeaway would be to have the theater production during the months of April - August.
 
-![Theater_Outcomes_vs_Launch](Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
 A majority of the plays that were successful had a goal of less than $5000. Anything higher than $5000 and the success of the play outcome goes down.  No plays were canceled, no matter what goal was there.
 
-![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
